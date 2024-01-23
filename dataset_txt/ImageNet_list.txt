@@ -1,0 +1,1092 @@
+ILSVRC2012_val_00028602.JPEG <> beagle <> Afghan hound
+ILSVRC2012_val_00020535.JPEG <> basset <> Afghan hound
+ILSVRC2012_val_00038554.JPEG <> otterhound <> Afghan hound
+ILSVRC2012_val_00037353.JPEG <> beagle <> Afghan hound
+ILSVRC2012_val_00007858.JPEG <> dingo <> African hunting dog
+ILSVRC2012_val_00025662.JPEG <> hyena <> African hunting dog
+ILSVRC2012_val_00026516.JPEG <> hyena <> African hunting dog
+ILSVRC2012_val_00049262.JPEG <> red fox <> African hunting dog
+ILSVRC2012_val_00005331.JPEG <> wire-haired fox terrier <> American Staffordshire terrier
+ILSVRC2012_val_00024508.JPEG <> standard schnauzer <> American Staffordshire terrier
+ILSVRC2012_val_00010584.JPEG <> Yorkshire terrier <> American Staffordshire terrier
+ILSVRC2012_val_00025690.JPEG <> Irish terrier <> American Staffordshire terrier
+ILSVRC2012_val_00010418.JPEG <> lesser panda <> American black bear
+ILSVRC2012_val_00017155.JPEG <> brown bear <> American black bear
+ILSVRC2012_val_00030485.JPEG <> ice bear <> American black bear
+ILSVRC2012_val_00007578.JPEG <> ice bear <> American black bear
+ILSVRC2012_val_00021378.JPEG <> rock crab <> American lobster
+ILSVRC2012_val_00047476.JPEG <> rock crab <> American lobster
+ILSVRC2012_val_00037413.JPEG <> fiddler crab <> American lobster
+ILSVRC2012_val_00020779.JPEG <> fiddler crab <> American lobster
+ILSVRC2012_val_00034551.JPEG <> African hunting dog <> Arctic fox
+ILSVRC2012_val_00007419.JPEG <> red wolf <> Arctic fox
+ILSVRC2012_val_00009312.JPEG <> red wolf <> Arctic fox
+ILSVRC2012_val_00030724.JPEG <> hyena <> Arctic fox
+ILSVRC2012_val_00041718.JPEG <> wire-haired fox terrier <> Border terrier
+ILSVRC2012_val_00009589.JPEG <> standard schnauzer <> Border terrier
+ILSVRC2012_val_00037925.JPEG <> wire-haired fox terrier <> Border terrier
+ILSVRC2012_val_00036919.JPEG <> standard schnauzer <> Border terrier
+ILSVRC2012_val_00025601.JPEG <> papillon <> Chihuahua
+ILSVRC2012_val_00029090.JPEG <> toy terrier <> Chihuahua
+ILSVRC2012_val_00028706.JPEG <> Japanese spaniel <> Chihuahua
+ILSVRC2012_val_00021961.JPEG <> papillon <> Chihuahua
+ILSVRC2012_val_00032029.JPEG <> American lobster <> Dungeness crab
+ILSVRC2012_val_00045807.JPEG <> isopod <> Dungeness crab
+ILSVRC2012_val_00032174.JPEG <> crayfish <> Dungeness crab
+ILSVRC2012_val_00047891.JPEG <> fiddler crab <> Dungeness crab
+ILSVRC2012_val_00012416.JPEG <> Italian greyhound <> English foxhound
+ILSVRC2012_val_00019488.JPEG <> Italian greyhound <> English foxhound
+ILSVRC2012_val_00040105.JPEG <> Afghan hound <> English foxhound
+ILSVRC2012_val_00047309.JPEG <> beagle <> English foxhound
+ILSVRC2012_val_00038122.JPEG <> Irish setter <> English springer
+ILSVRC2012_val_00030385.JPEG <> golden retriever <> English springer
+ILSVRC2012_val_00012155.JPEG <> cocker spaniel <> English springer
+ILSVRC2012_val_00018596.JPEG <> cocker spaniel <> English springer
+ILSVRC2012_val_00006330.JPEG <> collie <> Eskimo dog
+ILSVRC2012_val_00022762.JPEG <> Siberian husky <> Eskimo dog
+ILSVRC2012_val_00018792.JPEG <> French bulldog <> Eskimo dog
+ILSVRC2012_val_00018107.JPEG <> German shepherd <> Eskimo dog
+ILSVRC2012_val_00046976.JPEG <> axolotl <> European fire salamander
+ILSVRC2012_val_00006579.JPEG <> axolotl <> European fire salamander
+ILSVRC2012_val_00043111.JPEG <> eft <> European fire salamander
+ILSVRC2012_val_00047938.JPEG <> axolotl <> European fire salamander
+ILSVRC2012_val_00026758.JPEG <> albatross <> European gallinule
+ILSVRC2012_val_00030887.JPEG <> black swan <> European gallinule
+ILSVRC2012_val_00027559.JPEG <> king penguin <> European gallinule
+ILSVRC2012_val_00021709.JPEG <> pelican <> European gallinule
+ILSVRC2012_val_00014542.JPEG <> Siberian husky <> French bulldog
+ILSVRC2012_val_00004883.JPEG <> miniature pinscher <> French bulldog
+ILSVRC2012_val_00049841.JPEG <> Eskimo dog <> French bulldog
+ILSVRC2012_val_00032991.JPEG <> Eskimo dog <> French bulldog
+ILSVRC2012_val_00003736.JPEG <> flute <> French horn
+ILSVRC2012_val_00043562.JPEG <> flute <> French horn
+ILSVRC2012_val_00021771.JPEG <> oboe <> French horn
+ILSVRC2012_val_00020445.JPEG <> oboe <> French horn
+ILSVRC2012_val_00005750.JPEG <> miniature pinscher <> German shepherd
+ILSVRC2012_val_00049344.JPEG <> Rottweiler <> German shepherd
+ILSVRC2012_val_00005327.JPEG <> French bulldog <> German shepherd
+ILSVRC2012_val_00002004.JPEG <> Eskimo dog <> German shepherd
+ILSVRC2012_val_00047966.JPEG <> pineapple <> Granny Smith
+ILSVRC2012_val_00038432.JPEG <> pineapple <> Granny Smith
+ILSVRC2012_val_00018524.JPEG <> fig <> Granny Smith
+ILSVRC2012_val_00000798.JPEG <> custard apple <> Granny Smith
+ILSVRC2012_val_00033749.JPEG <> horned viper <> Indian cobra
+ILSVRC2012_val_00017595.JPEG <> horned viper <> Indian cobra
+ILSVRC2012_val_00049311.JPEG <> boa constrictor <> Indian cobra
+ILSVRC2012_val_00042100.JPEG <> thunder snake <> Indian cobra
+ILSVRC2012_val_00034237.JPEG <> golden retriever <> Irish setter
+ILSVRC2012_val_00021205.JPEG <> English springer <> Irish setter
+ILSVRC2012_val_00015499.JPEG <> English springer <> Irish setter
+ILSVRC2012_val_00006981.JPEG <> golden retriever <> Irish setter
+ILSVRC2012_val_00037838.JPEG <> Yorkshire terrier <> Irish terrier
+ILSVRC2012_val_00041251.JPEG <> standard schnauzer <> Irish terrier
+ILSVRC2012_val_00040565.JPEG <> standard schnauzer <> Irish terrier
+ILSVRC2012_val_00024411.JPEG <> Border terrier <> Irish terrier
+ILSVRC2012_val_00037989.JPEG <> otterhound <> Italian greyhound
+ILSVRC2012_val_00032793.JPEG <> otterhound <> Italian greyhound
+ILSVRC2012_val_00039242.JPEG <> basset <> Italian greyhound
+ILSVRC2012_val_00009139.JPEG <> Afghan hound <> Italian greyhound
+ILSVRC2012_val_00036012.JPEG <> papillon <> Japanese spaniel
+ILSVRC2012_val_00003841.JPEG <> Shih-Tzu <> Japanese spaniel
+ILSVRC2012_val_00014174.JPEG <> Shih-Tzu <> Japanese spaniel
+ILSVRC2012_val_00023234.JPEG <> Chihuahua <> Japanese spaniel
+ILSVRC2012_val_00017739.JPEG <> jaguar <> Persian cat
+ILSVRC2012_val_00031492.JPEG <> tiger <> Persian cat
+ILSVRC2012_val_00040784.JPEG <> jaguar <> Persian cat
+ILSVRC2012_val_00005917.JPEG <> snow leopard <> Persian cat
+ILSVRC2012_val_00002012.JPEG <> German shepherd <> Rottweiler
+ILSVRC2012_val_00046902.JPEG <> German shepherd <> Rottweiler
+ILSVRC2012_val_00022142.JPEG <> German shepherd <> Rottweiler
+ILSVRC2012_val_00038789.JPEG <> collie <> Rottweiler
+ILSVRC2012_val_00043201.JPEG <> Japanese spaniel <> Shih-Tzu
+ILSVRC2012_val_00034454.JPEG <> toy terrier <> Shih-Tzu
+ILSVRC2012_val_00006892.JPEG <> Chihuahua <> Shih-Tzu
+ILSVRC2012_val_00024126.JPEG <> Chihuahua <> Shih-Tzu
+ILSVRC2012_val_00012203.JPEG <> German shepherd <> Siberian husky
+ILSVRC2012_val_00011718.JPEG <> French bulldog <> Siberian husky
+ILSVRC2012_val_00029255.JPEG <> boxer <> Siberian husky
+ILSVRC2012_val_00034771.JPEG <> Rottweiler <> Siberian husky
+ILSVRC2012_val_00011082.JPEG <> wire-haired fox terrier <> Yorkshire terrier
+ILSVRC2012_val_00010046.JPEG <> standard schnauzer <> Yorkshire terrier
+ILSVRC2012_val_00009362.JPEG <> standard schnauzer <> Yorkshire terrier
+ILSVRC2012_val_00028691.JPEG <> standard schnauzer <> Yorkshire terrier
+ILSVRC2012_val_00021729.JPEG <> electric guitar <> acoustic guitar
+ILSVRC2012_val_00012911.JPEG <> electric guitar <> acoustic guitar
+ILSVRC2012_val_00009952.JPEG <> electric guitar <> acoustic guitar
+ILSVRC2012_val_00001836.JPEG <> electric guitar <> acoustic guitar
+ILSVRC2012_val_00011143.JPEG <> monarch <> admiral
+ILSVRC2012_val_00021806.JPEG <> lycaenid <> admiral
+ILSVRC2012_val_00020376.JPEG <> lycaenid <> admiral
+ILSVRC2012_val_00044300.JPEG <> lycaenid <> admiral
+ILSVRC2012_val_00003153.JPEG <> pelican <> albatross
+ILSVRC2012_val_00041469.JPEG <> pelican <> albatross
+ILSVRC2012_val_00020326.JPEG <> pelican <> albatross
+ILSVRC2012_val_00048664.JPEG <> pelican <> albatross
+ILSVRC2012_val_00033422.JPEG <> limousine <> ambulance
+ILSVRC2012_val_00019496.JPEG <> convertible <> ambulance
+ILSVRC2012_val_00013993.JPEG <> jeep <> ambulance
+ILSVRC2012_val_00023221.JPEG <> beach wagon <> ambulance
+ILSVRC2012_val_00029493.JPEG <> stopwatch <> analog clock
+ILSVRC2012_val_00033627.JPEG <> digital clock <> analog clock
+ILSVRC2012_val_00048682.JPEG <> digital clock <> analog clock
+ILSVRC2012_val_00008052.JPEG <> stopwatch <> analog clock
+ILSVRC2012_val_00035407.JPEG <> sturgeon <> anemone fish
+ILSVRC2012_val_00003735.JPEG <> goldfish <> anemone fish
+ILSVRC2012_val_00023806.JPEG <> lionfish <> anemone fish
+ILSVRC2012_val_00032197.JPEG <> gar <> anemone fish
+ILSVRC2012_val_00042805.JPEG <> cauliflower <> artichoke
+ILSVRC2012_val_00015777.JPEG <> cucumber <> artichoke
+ILSVRC2012_val_00046928.JPEG <> cucumber <> artichoke
+ILSVRC2012_val_00006628.JPEG <> cauliflower <> artichoke
+ILSVRC2012_val_00037037.JPEG <> eft <> axolotl
+ILSVRC2012_val_00011661.JPEG <> European fire salamander <> axolotl
+ILSVRC2012_val_00020916.JPEG <> bullfrog <> axolotl
+ILSVRC2012_val_00023308.JPEG <> bullfrog <> axolotl
+ILSVRC2012_val_00016599.JPEG <> guenon <> baboon
+ILSVRC2012_val_00038869.JPEG <> guenon <> baboon
+ILSVRC2012_val_00037219.JPEG <> spider monkey <> baboon
+ILSVRC2012_val_00021140.JPEG <> macaque <> baboon
+ILSVRC2012_val_00036411.JPEG <> purse <> backpack
+ILSVRC2012_val_00014524.JPEG <> purse <> backpack
+ILSVRC2012_val_00000722.JPEG <> plastic bag <> backpack
+ILSVRC2012_val_00047620.JPEG <> purse <> backpack
+ILSVRC2012_val_00014874.JPEG <> hotdog <> bagel
+ILSVRC2012_val_00034147.JPEG <> hotdog <> bagel
+ILSVRC2012_val_00047577.JPEG <> cheeseburger <> bagel
+ILSVRC2012_val_00026101.JPEG <> hotdog <> bagel
+ILSVRC2012_val_00032875.JPEG <> great grey owl <> bald eagle
+ILSVRC2012_val_00030483.JPEG <> kite <> bald eagle
+ILSVRC2012_val_00005770.JPEG <> great grey owl <> bald eagle
+ILSVRC2012_val_00031676.JPEG <> kite <> bald eagle
+ILSVRC2012_val_00002179.JPEG <> fig <> banana
+ILSVRC2012_val_00015400.JPEG <> custard apple <> banana
+ILSVRC2012_val_00018013.JPEG <> orange <> banana
+ILSVRC2012_val_00032276.JPEG <> strawberry <> banana
+ILSVRC2012_val_00015869.JPEG <> violin <> banjo
+ILSVRC2012_val_00021282.JPEG <> acoustic guitar <> banjo
+ILSVRC2012_val_00040891.JPEG <> acoustic guitar <> banjo
+ILSVRC2012_val_00029228.JPEG <> acoustic guitar <> banjo
+ILSVRC2012_val_00033429.JPEG <> analog clock <> barometer
+ILSVRC2012_val_00014666.JPEG <> digital clock <> barometer
+ILSVRC2012_val_00003529.JPEG <> odometer <> barometer
+ILSVRC2012_val_00022736.JPEG <> odometer <> barometer
+ILSVRC2012_val_00005291.JPEG <> beagle <> basset
+ILSVRC2012_val_00006704.JPEG <> otterhound <> basset
+ILSVRC2012_val_00029232.JPEG <> Afghan hound <> basset
+ILSVRC2012_val_00016656.JPEG <> beagle <> basset
+ILSVRC2012_val_00015542.JPEG <> French horn <> bassoon
+ILSVRC2012_val_00015433.JPEG <> cornet <> bassoon
+ILSVRC2012_val_00001834.JPEG <> oboe <> bassoon
+ILSVRC2012_val_00047864.JPEG <> sax <> bassoon
+ILSVRC2012_val_00026464.JPEG <> bonnet <> bathing cap
+ILSVRC2012_val_00030122.JPEG <> cowboy hat <> bathing cap
+ILSVRC2012_val_00006601.JPEG <> shower cap <> bathing cap
+ILSVRC2012_val_00030254.JPEG <> football helmet <> bathing cap
+ILSVRC2012_val_00030314.JPEG <> cab <> beach wagon
+ILSVRC2012_val_00024658.JPEG <> ambulance <> beach wagon
+ILSVRC2012_val_00041942.JPEG <> ambulance <> beach wagon
+ILSVRC2012_val_00027795.JPEG <> convertible <> beach wagon
+ILSVRC2012_val_00049756.JPEG <> Afghan hound <> beagle
+ILSVRC2012_val_00022137.JPEG <> otterhound <> beagle
+ILSVRC2012_val_00044766.JPEG <> otterhound <> beagle
+ILSVRC2012_val_00046154.JPEG <> Italian greyhound <> beagle
+ILSVRC2012_val_00048274.JPEG <> measuring cup <> beer bottle
+ILSVRC2012_val_00000895.JPEG <> vase <> beer bottle
+ILSVRC2012_val_00028811.JPEG <> coffeepot <> beer bottle
+ILSVRC2012_val_00025893.JPEG <> coffee mug <> beer bottle
+ILSVRC2012_val_00025272.JPEG <> cauliflower <> bell pepper
+ILSVRC2012_val_00035527.JPEG <> spaghetti squash <> bell pepper
+ILSVRC2012_val_00043433.JPEG <> cardoon <> bell pepper
+ILSVRC2012_val_00027503.JPEG <> broccoli <> bell pepper
+ILSVRC2012_val_00022185.JPEG <> ram <> bighorn
+ILSVRC2012_val_00044042.JPEG <> ram <> bighorn
+ILSVRC2012_val_00004914.JPEG <> ibex <> bighorn
+ILSVRC2012_val_00025011.JPEG <> water buffalo <> bighorn
+ILSVRC2012_val_00024665.JPEG <> impala <> bison
+ILSVRC2012_val_00048757.JPEG <> ram <> bison
+ILSVRC2012_val_00041130.JPEG <> impala <> bison
+ILSVRC2012_val_00023708.JPEG <> gazelle <> bison
+ILSVRC2012_val_00039021.JPEG <> ruffed grouse <> black grouse
+ILSVRC2012_val_00012410.JPEG <> ptarmigan <> black grouse
+ILSVRC2012_val_00018626.JPEG <> ruffed grouse <> black grouse
+ILSVRC2012_val_00041329.JPEG <> ruffed grouse <> black grouse
+ILSVRC2012_val_00009610.JPEG <> goose <> black stork
+ILSVRC2012_val_00037207.JPEG <> oystercatcher <> black stork
+ILSVRC2012_val_00041083.JPEG <> flamingo <> black stork
+ILSVRC2012_val_00008555.JPEG <> spoonbill <> black stork
+ILSVRC2012_val_00012523.JPEG <> king penguin <> black swan
+ILSVRC2012_val_00029223.JPEG <> albatross <> black swan
+ILSVRC2012_val_00042113.JPEG <> European gallinule <> black swan
+ILSVRC2012_val_00023024.JPEG <> European gallinule <> black swan
+ILSVRC2012_val_00022895.JPEG <> garden spider <> black widow
+ILSVRC2012_val_00047574.JPEG <> tarantula <> black widow
+ILSVRC2012_val_00020991.JPEG <> garden spider <> black widow
+ILSVRC2012_val_00000395.JPEG <> garden spider <> black widow
+ILSVRC2012_val_00019722.JPEG <> thunder snake <> boa constrictor
+ILSVRC2012_val_00038480.JPEG <> Indian cobra <> boa constrictor
+ILSVRC2012_val_00007937.JPEG <> green mamba <> boa constrictor
+ILSVRC2012_val_00013698.JPEG <> sidewinder <> boa constrictor
+ILSVRC2012_val_00022963.JPEG <> hen-of-the-woods <> bolete
+ILSVRC2012_val_00045909.JPEG <> gyromitra <> bolete
+ILSVRC2012_val_00020929.JPEG <> hen-of-the-woods <> bolete
+ILSVRC2012_val_00044046.JPEG <> coral fungus <> bolete
+ILSVRC2012_val_00047692.JPEG <> football helmet <> bonnet
+ILSVRC2012_val_00024350.JPEG <> bathing cap <> bonnet
+ILSVRC2012_val_00024479.JPEG <> shower cap <> bonnet
+ILSVRC2012_val_00036950.JPEG <> bathing cap <> bonnet
+ILSVRC2012_val_00031774.JPEG <> terrapin <> box turtle
+ILSVRC2012_val_00031674.JPEG <> terrapin <> box turtle
+ILSVRC2012_val_00008921.JPEG <> terrapin <> box turtle
+ILSVRC2012_val_00013738.JPEG <> terrapin <> box turtle
+ILSVRC2012_val_00032658.JPEG <> French bulldog <> boxer
+ILSVRC2012_val_00017940.JPEG <> Rottweiler <> boxer
+ILSVRC2012_val_00019364.JPEG <> miniature pinscher <> boxer
+ILSVRC2012_val_00013155.JPEG <> French bulldog <> boxer
+ILSVRC2012_val_00013114.JPEG <> zucchini <> broccoli
+ILSVRC2012_val_00008554.JPEG <> spaghetti squash <> broccoli
+ILSVRC2012_val_00045122.JPEG <> butternut squash <> broccoli
+ILSVRC2012_val_00000674.JPEG <> butternut squash <> broccoli
+ILSVRC2012_val_00044129.JPEG <> sloth bear <> brown bear
+ILSVRC2012_val_00035546.JPEG <> lesser panda <> brown bear
+ILSVRC2012_val_00044947.JPEG <> sloth bear <> brown bear
+ILSVRC2012_val_00040753.JPEG <> ice bear <> brown bear
+ILSVRC2012_val_00003846.JPEG <> tree frog <> bullfrog
+ILSVRC2012_val_00007257.JPEG <> common newt <> bullfrog
+ILSVRC2012_val_00022935.JPEG <> European fire salamander <> bullfrog
+ILSVRC2012_val_00019710.JPEG <> axolotl <> bullfrog
+ILSVRC2012_val_00025651.JPEG <> black stork <> bustard
+ILSVRC2012_val_00015675.JPEG <> goose <> bustard
+ILSVRC2012_val_00026416.JPEG <> little blue heron <> bustard
+ILSVRC2012_val_00008834.JPEG <> goose <> bustard
+ILSVRC2012_val_00030197.JPEG <> broccoli <> butternut squash
+ILSVRC2012_val_00013415.JPEG <> cauliflower <> butternut squash
+ILSVRC2012_val_00033271.JPEG <> spaghetti squash <> butternut squash
+ILSVRC2012_val_00000155.JPEG <> broccoli <> butternut squash
+ILSVRC2012_val_00026466.JPEG <> jeep <> cab
+ILSVRC2012_val_00004970.JPEG <> sports car <> cab
+ILSVRC2012_val_00041490.JPEG <> jeep <> cab
+ILSVRC2012_val_00035603.JPEG <> sports car <> cab
+ILSVRC2012_val_00012137.JPEG <> monarch <> cabbage butterfly
+ILSVRC2012_val_00012764.JPEG <> admiral <> cabbage butterfly
+ILSVRC2012_val_00013322.JPEG <> lycaenid <> cabbage butterfly
+ILSVRC2012_val_00040785.JPEG <> lycaenid <> cabbage butterfly
+ILSVRC2012_val_00016640.JPEG <> gondola <> canoe
+ILSVRC2012_val_00047743.JPEG <> gondola <> canoe
+ILSVRC2012_val_00025029.JPEG <> gondola <> canoe
+ILSVRC2012_val_00045286.JPEG <> gondola <> canoe
+ILSVRC2012_val_00026757.JPEG <> spider monkey <> capuchin
+ILSVRC2012_val_00005306.JPEG <> macaque <> capuchin
+ILSVRC2012_val_00008873.JPEG <> macaque <> capuchin
+ILSVRC2012_val_00012793.JPEG <> squirrel monkey <> capuchin
+ILSVRC2012_val_00000423.JPEG <> bell pepper <> cardoon
+ILSVRC2012_val_00040922.JPEG <> broccoli <> cardoon
+ILSVRC2012_val_00039647.JPEG <> zucchini <> cardoon
+ILSVRC2012_val_00010591.JPEG <> cauliflower <> cardoon
+ILSVRC2012_val_00027181.JPEG <> computer keyboard <> cassette player
+ILSVRC2012_val_00038711.JPEG <> computer keyboard <> cassette player
+ILSVRC2012_val_00018299.JPEG <> hard disc <> cassette player
+ILSVRC2012_val_00036024.JPEG <> cellular telephone <> cassette player
+ILSVRC2012_val_00035945.JPEG <> trimaran <> catamaran
+ILSVRC2012_val_00032731.JPEG <> schooner <> catamaran
+ILSVRC2012_val_00016151.JPEG <> schooner <> catamaran
+ILSVRC2012_val_00031936.JPEG <> schooner <> catamaran
+ILSVRC2012_val_00005335.JPEG <> artichoke <> cauliflower
+ILSVRC2012_val_00047735.JPEG <> cardoon <> cauliflower
+ILSVRC2012_val_00022886.JPEG <> cucumber <> cauliflower
+ILSVRC2012_val_00042937.JPEG <> butternut squash <> cauliflower
+ILSVRC2012_val_00031548.JPEG <> violin <> cello
+ILSVRC2012_val_00029236.JPEG <> banjo <> cello
+ILSVRC2012_val_00033413.JPEG <> banjo <> cello
+ILSVRC2012_val_00002992.JPEG <> electric guitar <> cello
+ILSVRC2012_val_00005866.JPEG <> cassette player <> cellular telephone
+ILSVRC2012_val_00003609.JPEG <> hard disc <> cellular telephone
+ILSVRC2012_val_00000660.JPEG <> laptop <> cellular telephone
+ILSVRC2012_val_00030348.JPEG <> iPod <> cellular telephone
+ILSVRC2012_val_00018914.JPEG <> bagel <> cheeseburger
+ILSVRC2012_val_00022802.JPEG <> bagel <> cheeseburger
+ILSVRC2012_val_00000197.JPEG <> hotdog <> cheeseburger
+ILSVRC2012_val_00049219.JPEG <> hotdog <> cheeseburger
+ILSVRC2012_val_00009594.JPEG <> Persian cat <> cheetah
+ILSVRC2012_val_00027413.JPEG <> lion <> cheetah
+ILSVRC2012_val_00042484.JPEG <> snow leopard <> cheetah
+ILSVRC2012_val_00048717.JPEG <> snow leopard <> cheetah
+ILSVRC2012_val_00044143.JPEG <> maraca <> chime
+ILSVRC2012_val_00018810.JPEG <> maraca <> chime
+ILSVRC2012_val_00045460.JPEG <> steel drum <> chime
+ILSVRC2012_val_00006388.JPEG <> gong <> chime
+ILSVRC2012_val_00006541.JPEG <> gorilla <> chimpanzee
+ILSVRC2012_val_00004173.JPEG <> gorilla <> chimpanzee
+ILSVRC2012_val_00040794.JPEG <> gorilla <> chimpanzee
+ILSVRC2012_val_00020000.JPEG <> gorilla <> chimpanzee
+ILSVRC2012_val_00001112.JPEG <> golden retriever <> cocker spaniel
+ILSVRC2012_val_00008772.JPEG <> golden retriever <> cocker spaniel
+ILSVRC2012_val_00007032.JPEG <> English springer <> cocker spaniel
+ILSVRC2012_val_00017672.JPEG <> golden retriever <> cocker spaniel
+ILSVRC2012_val_00032225.JPEG <> wine bottle <> cocktail shaker
+ILSVRC2012_val_00023127.JPEG <> water bottle <> cocktail shaker
+ILSVRC2012_val_00020345.JPEG <> beer bottle <> cocktail shaker
+ILSVRC2012_val_00000826.JPEG <> teapot <> cocktail shaker
+ILSVRC2012_val_00043720.JPEG <> teapot <> coffee mug
+ILSVRC2012_val_00020527.JPEG <> cocktail shaker <> coffee mug
+ILSVRC2012_val_00015857.JPEG <> teapot <> coffee mug
+ILSVRC2012_val_00020255.JPEG <> coffeepot <> coffee mug
+ILSVRC2012_val_00038313.JPEG <> cocktail shaker <> coffeepot
+ILSVRC2012_val_00002430.JPEG <> coffee mug <> coffeepot
+ILSVRC2012_val_00033522.JPEG <> water jug <> coffeepot
+ILSVRC2012_val_00030441.JPEG <> teapot <> coffeepot
+ILSVRC2012_val_00044075.JPEG <> miniature pinscher <> collie
+ILSVRC2012_val_00036110.JPEG <> Rottweiler <> collie
+ILSVRC2012_val_00007318.JPEG <> French bulldog <> collie
+ILSVRC2012_val_00000635.JPEG <> boxer <> collie
+ILSVRC2012_val_00038202.JPEG <> spotted salamander <> common newt
+ILSVRC2012_val_00019308.JPEG <> European fire salamander <> common newt
+ILSVRC2012_val_00032104.JPEG <> tree frog <> common newt
+ILSVRC2012_val_00006987.JPEG <> tree frog <> common newt
+ILSVRC2012_val_00016812.JPEG <> laptop <> computer keyboard
+ILSVRC2012_val_00001831.JPEG <> iPod <> computer keyboard
+ILSVRC2012_val_00024499.JPEG <> laptop <> computer keyboard
+ILSVRC2012_val_00022219.JPEG <> iPod <> computer keyboard
+ILSVRC2012_val_00023599.JPEG <> jeep <> convertible
+ILSVRC2012_val_00036304.JPEG <> jeep <> convertible
+ILSVRC2012_val_00004979.JPEG <> sports car <> convertible
+ILSVRC2012_val_00025159.JPEG <> ambulance <> convertible
+ILSVRC2012_val_00004690.JPEG <> bolete <> coral fungus
+ILSVRC2012_val_00035125.JPEG <> bolete <> coral fungus
+ILSVRC2012_val_00048378.JPEG <> earthstar <> coral fungus
+ILSVRC2012_val_00017210.JPEG <> hen-of-the-woods <> coral fungus
+ILSVRC2012_val_00012019.JPEG <> bassoon <> cornet
+ILSVRC2012_val_00038137.JPEG <> French horn <> cornet
+ILSVRC2012_val_00036869.JPEG <> sax <> cornet
+ILSVRC2012_val_00043168.JPEG <> sax <> cornet
+ILSVRC2012_val_00015695.JPEG <> bonnet <> cowboy hat
+ILSVRC2012_val_00006170.JPEG <> football helmet <> cowboy hat
+ILSVRC2012_val_00037567.JPEG <> football helmet <> cowboy hat
+ILSVRC2012_val_00047240.JPEG <> shower cap <> cowboy hat
+ILSVRC2012_val_00042659.JPEG <> Arctic fox <> coyote
+ILSVRC2012_val_00020225.JPEG <> red fox <> coyote
+ILSVRC2012_val_00044496.JPEG <> hyena <> coyote
+ILSVRC2012_val_00013368.JPEG <> African hunting dog <> coyote
+ILSVRC2012_val_00026939.JPEG <> isopod <> crayfish
+ILSVRC2012_val_00015754.JPEG <> isopod <> crayfish
+ILSVRC2012_val_00015120.JPEG <> Dungeness crab <> crayfish
+ILSVRC2012_val_00003662.JPEG <> isopod <> crayfish
+ILSVRC2012_val_00047448.JPEG <> artichoke <> cucumber
+ILSVRC2012_val_00047937.JPEG <> cauliflower <> cucumber
+ILSVRC2012_val_00011524.JPEG <> butternut squash <> cucumber
+ILSVRC2012_val_00003660.JPEG <> zucchini <> cucumber
+ILSVRC2012_val_00026831.JPEG <> orange <> custard apple
+ILSVRC2012_val_00012216.JPEG <> strawberry <> custard apple
+ILSVRC2012_val_00025102.JPEG <> pomegranate <> custard apple
+ILSVRC2012_val_00037096.JPEG <> strawberry <> custard apple
+ILSVRC2012_val_00043848.JPEG <> iPod <> desktop computer
+ILSVRC2012_val_00042243.JPEG <> hard disc <> desktop computer
+ILSVRC2012_val_00035703.JPEG <> computer keyboard <> desktop computer
+ILSVRC2012_val_00011934.JPEG <> dial telephone <> desktop computer
+ILSVRC2012_val_00021413.JPEG <> laptop <> dial telephone
+ILSVRC2012_val_00049752.JPEG <> desktop computer <> dial telephone
+ILSVRC2012_val_00002755.JPEG <> computer keyboard <> dial telephone
+ILSVRC2012_val_00030993.JPEG <> computer keyboard <> dial telephone
+ILSVRC2012_val_00027142.JPEG <> thunder snake <> diamondback
+ILSVRC2012_val_00032756.JPEG <> rock python <> diamondback
+ILSVRC2012_val_00027680.JPEG <> thunder snake <> diamondback
+ILSVRC2012_val_00000688.JPEG <> rock python <> diamondback
+ILSVRC2012_val_00003043.JPEG <> barometer <> digital clock
+ILSVRC2012_val_00013824.JPEG <> odometer <> digital clock
+ILSVRC2012_val_00032908.JPEG <> odometer <> digital clock
+ILSVRC2012_val_00008280.JPEG <> barometer <> digital clock
+ILSVRC2012_val_00003406.JPEG <> barometer <> digital watch
+ILSVRC2012_val_00032063.JPEG <> barometer <> digital watch
+ILSVRC2012_val_00033746.JPEG <> barometer <> digital watch
+ILSVRC2012_val_00030062.JPEG <> barometer <> digital watch
+ILSVRC2012_val_00045171.JPEG <> grey fox <> dingo
+ILSVRC2012_val_00020302.JPEG <> Arctic fox <> dingo
+ILSVRC2012_val_00024786.JPEG <> hyena <> dingo
+ILSVRC2012_val_00045175.JPEG <> Arctic fox <> dingo
+ILSVRC2012_val_00031667.JPEG <> steel drum <> drum
+ILSVRC2012_val_00016595.JPEG <> marimba <> drum
+ILSVRC2012_val_00008971.JPEG <> marimba <> drum
+ILSVRC2012_val_00026768.JPEG <> maraca <> drum
+ILSVRC2012_val_00039524.JPEG <> killer whale <> dugong
+ILSVRC2012_val_00033405.JPEG <> grey whale <> dugong
+ILSVRC2012_val_00049801.JPEG <> killer whale <> dugong
+ILSVRC2012_val_00006253.JPEG <> killer whale <> dugong
+ILSVRC2012_val_00014277.JPEG <> coral fungus <> earthstar
+ILSVRC2012_val_00017416.JPEG <> stinkhorn <> earthstar
+ILSVRC2012_val_00015085.JPEG <> coral fungus <> earthstar
+ILSVRC2012_val_00031593.JPEG <> gyromitra <> earthstar
+ILSVRC2012_val_00027500.JPEG <> anemone fish <> eel
+ILSVRC2012_val_00009034.JPEG <> goldfish <> eel
+ILSVRC2012_val_00004464.JPEG <> lionfish <> eel
+ILSVRC2012_val_00005755.JPEG <> gar <> eel
+ILSVRC2012_val_00007977.JPEG <> tree frog <> eft
+ILSVRC2012_val_00022771.JPEG <> axolotl <> eft
+ILSVRC2012_val_00041279.JPEG <> tree frog <> eft
+ILSVRC2012_val_00033960.JPEG <> bullfrog <> eft
+ILSVRC2012_val_00025664.JPEG <> banjo <> electric guitar
+ILSVRC2012_val_00044733.JPEG <> acoustic guitar <> electric guitar
+ILSVRC2012_val_00024503.JPEG <> violin <> electric guitar
+ILSVRC2012_val_00013202.JPEG <> cello <> electric guitar
+ILSVRC2012_val_00021247.JPEG <> steam locomotive <> electric locomotive
+ILSVRC2012_val_00021734.JPEG <> steam locomotive <> electric locomotive
+ILSVRC2012_val_00020437.JPEG <> steam locomotive <> electric locomotive
+ILSVRC2012_val_00018868.JPEG <> steam locomotive <> electric locomotive
+ILSVRC2012_val_00017555.JPEG <> hermit crab <> fiddler crab
+ILSVRC2012_val_00000231.JPEG <> hermit crab <> fiddler crab
+ILSVRC2012_val_00003272.JPEG <> Dungeness crab <> fiddler crab
+ILSVRC2012_val_00019512.JPEG <> hermit crab <> fiddler crab
+ILSVRC2012_val_00004428.JPEG <> strawberry <> fig
+ILSVRC2012_val_00014856.JPEG <> orange <> fig
+ILSVRC2012_val_00029311.JPEG <> pineapple <> fig
+ILSVRC2012_val_00030543.JPEG <> pineapple <> fig
+ILSVRC2012_val_00039508.JPEG <> pickup <> fire engine
+ILSVRC2012_val_00033387.JPEG <> trailer truck <> fire engine
+ILSVRC2012_val_00032894.JPEG <> pickup <> fire engine
+ILSVRC2012_val_00036046.JPEG <> police van <> fire engine
+ILSVRC2012_val_00025415.JPEG <> canoe <> fireboat
+ILSVRC2012_val_00022210.JPEG <> canoe <> fireboat
+ILSVRC2012_val_00013191.JPEG <> canoe <> fireboat
+ILSVRC2012_val_00001677.JPEG <> canoe <> fireboat
+ILSVRC2012_val_00009991.JPEG <> oystercatcher <> flamingo
+ILSVRC2012_val_00025273.JPEG <> bustard <> flamingo
+ILSVRC2012_val_00011196.JPEG <> oystercatcher <> flamingo
+ILSVRC2012_val_00029736.JPEG <> spoonbill <> flamingo
+ILSVRC2012_val_00023807.JPEG <> cornet <> flute
+ILSVRC2012_val_00028182.JPEG <> sax <> flute
+ILSVRC2012_val_00004486.JPEG <> oboe <> flute
+ILSVRC2012_val_00043988.JPEG <> French horn <> flute
+ILSVRC2012_val_00049869.JPEG <> cowboy hat <> football helmet
+ILSVRC2012_val_00002639.JPEG <> cowboy hat <> football helmet
+ILSVRC2012_val_00005719.JPEG <> cowboy hat <> football helmet
+ILSVRC2012_val_00041604.JPEG <> shower cap <> football helmet
+ILSVRC2012_val_00005188.JPEG <> anemone fish <> gar
+ILSVRC2012_val_00003094.JPEG <> lionfish <> gar
+ILSVRC2012_val_00004784.JPEG <> sturgeon <> gar
+ILSVRC2012_val_00034488.JPEG <> eel <> gar
+ILSVRC2012_val_00037681.JPEG <> school bus <> garbage truck
+ILSVRC2012_val_00011870.JPEG <> school bus <> garbage truck
+ILSVRC2012_val_00005166.JPEG <> school bus <> garbage truck
+ILSVRC2012_val_00008953.JPEG <> police van <> garbage truck
+ILSVRC2012_val_00027439.JPEG <> scorpion <> garden spider
+ILSVRC2012_val_00030333.JPEG <> black widow <> garden spider
+ILSVRC2012_val_00016936.JPEG <> black widow <> garden spider
+ILSVRC2012_val_00029208.JPEG <> black widow <> garden spider
+ILSVRC2012_val_00028707.JPEG <> ibex <> gazelle
+ILSVRC2012_val_00007108.JPEG <> water buffalo <> gazelle
+ILSVRC2012_val_00018032.JPEG <> bison <> gazelle
+ILSVRC2012_val_00000444.JPEG <> ibex <> gazelle
+ILSVRC2012_val_00011235.JPEG <> lesser panda <> giant panda
+ILSVRC2012_val_00041156.JPEG <> ice bear <> giant panda
+ILSVRC2012_val_00031253.JPEG <> brown bear <> giant panda
+ILSVRC2012_val_00046498.JPEG <> sloth bear <> giant panda
+ILSVRC2012_val_00020279.JPEG <> Irish setter <> golden retriever
+ILSVRC2012_val_00038569.JPEG <> English springer <> golden retriever
+ILSVRC2012_val_00001663.JPEG <> cocker spaniel <> golden retriever
+ILSVRC2012_val_00046295.JPEG <> English springer <> golden retriever
+ILSVRC2012_val_00006597.JPEG <> house finch <> goldfinch
+ILSVRC2012_val_00038160.JPEG <> house finch <> goldfinch
+ILSVRC2012_val_00048732.JPEG <> indigo bunting <> goldfinch
+ILSVRC2012_val_00037454.JPEG <> indigo bunting <> goldfinch
+ILSVRC2012_val_00029790.JPEG <> sturgeon <> goldfish
+ILSVRC2012_val_00031222.JPEG <> gar <> goldfish
+ILSVRC2012_val_00046455.JPEG <> lionfish <> goldfish
+ILSVRC2012_val_00017699.JPEG <> tench <> goldfish
+ILSVRC2012_val_00036288.JPEG <> rugby ball <> golf ball
+ILSVRC2012_val_00049365.JPEG <> rugby ball <> golf ball
+ILSVRC2012_val_00001497.JPEG <> rugby ball <> golf ball
+ILSVRC2012_val_00000397.JPEG <> tennis ball <> golf ball
+ILSVRC2012_val_00026054.JPEG <> canoe <> gondola
+ILSVRC2012_val_00046387.JPEG <> canoe <> gondola
+ILSVRC2012_val_00013632.JPEG <> fireboat <> gondola
+ILSVRC2012_val_00047638.JPEG <> speedboat <> gondola
+ILSVRC2012_val_00031533.JPEG <> chime <> gong
+ILSVRC2012_val_00046386.JPEG <> marimba <> gong
+ILSVRC2012_val_00015169.JPEG <> drum <> gong
+ILSVRC2012_val_00025962.JPEG <> maraca <> gong
+ILSVRC2012_val_00031931.JPEG <> flamingo <> goose
+ILSVRC2012_val_00039514.JPEG <> flamingo <> goose
+ILSVRC2012_val_00010080.JPEG <> oystercatcher <> goose
+ILSVRC2012_val_00007697.JPEG <> spoonbill <> goose
+ILSVRC2012_val_00015148.JPEG <> chimpanzee <> gorilla
+ILSVRC2012_val_00012167.JPEG <> orangutan <> gorilla
+ILSVRC2012_val_00011592.JPEG <> orangutan <> gorilla
+ILSVRC2012_val_00046703.JPEG <> chimpanzee <> gorilla
+ILSVRC2012_val_00034168.JPEG <> bald eagle <> great grey owl
+ILSVRC2012_val_00006334.JPEG <> bald eagle <> great grey owl
+ILSVRC2012_val_00008481.JPEG <> bald eagle <> great grey owl
+ILSVRC2012_val_00033433.JPEG <> kite <> great grey owl
+ILSVRC2012_val_00003558.JPEG <> hammerhead <> great white shark
+ILSVRC2012_val_00031169.JPEG <> hammerhead <> great white shark
+ILSVRC2012_val_00037516.JPEG <> tiger shark <> great white shark
+ILSVRC2012_val_00049166.JPEG <> hammerhead <> great white shark
+ILSVRC2012_val_00033762.JPEG <> thunder snake <> green mamba
+ILSVRC2012_val_00045019.JPEG <> Indian cobra <> green mamba
+ILSVRC2012_val_00042500.JPEG <> boa constrictor <> green mamba
+ILSVRC2012_val_00032754.JPEG <> king snake <> green mamba
+ILSVRC2012_val_00038068.JPEG <> diamondback <> green snake
+ILSVRC2012_val_00020401.JPEG <> boa constrictor <> green snake
+ILSVRC2012_val_00014181.JPEG <> Indian cobra <> green snake
+ILSVRC2012_val_00045418.JPEG <> diamondback <> green snake
+ILSVRC2012_val_00001469.JPEG <> timber wolf <> grey fox
+ILSVRC2012_val_00035165.JPEG <> red fox <> grey fox
+ILSVRC2012_val_00029562.JPEG <> red fox <> grey fox
+ILSVRC2012_val_00006818.JPEG <> red fox <> grey fox
+ILSVRC2012_val_00012330.JPEG <> sea lion <> grey whale
+ILSVRC2012_val_00027024.JPEG <> sea lion <> grey whale
+ILSVRC2012_val_00013809.JPEG <> sea lion <> grey whale
+ILSVRC2012_val_00043549.JPEG <> sea lion <> grey whale
+ILSVRC2012_val_00017552.JPEG <> long-horned beetle <> ground beetle
+ILSVRC2012_val_00000625.JPEG <> ladybug <> ground beetle
+ILSVRC2012_val_00027586.JPEG <> ladybug <> ground beetle
+ILSVRC2012_val_00029943.JPEG <> ladybug <> ground beetle
+ILSVRC2012_val_00018253.JPEG <> squirrel monkey <> guenon
+ILSVRC2012_val_00009799.JPEG <> baboon <> guenon
+ILSVRC2012_val_00027705.JPEG <> macaque <> guenon
+ILSVRC2012_val_00000945.JPEG <> baboon <> guenon
+ILSVRC2012_val_00044494.JPEG <> earthstar <> gyromitra
+ILSVRC2012_val_00042840.JPEG <> earthstar <> gyromitra
+ILSVRC2012_val_00043263.JPEG <> earthstar <> gyromitra
+ILSVRC2012_val_00033845.JPEG <> coral fungus <> gyromitra
+ILSVRC2012_val_00004803.JPEG <> plane <> hammer
+ILSVRC2012_val_00037757.JPEG <> plane <> hammer
+ILSVRC2012_val_00039935.JPEG <> plane <> hammer
+ILSVRC2012_val_00001966.JPEG <> plane <> hammer
+ILSVRC2012_val_00040710.JPEG <> great white shark <> hammerhead
+ILSVRC2012_val_00014467.JPEG <> great white shark <> hammerhead
+ILSVRC2012_val_00007875.JPEG <> tiger shark <> hammerhead
+ILSVRC2012_val_00039304.JPEG <> great white shark <> hammerhead
+ILSVRC2012_val_00016828.JPEG <> cellular telephone <> hard disc
+ILSVRC2012_val_00007754.JPEG <> computer keyboard <> hard disc
+ILSVRC2012_val_00028116.JPEG <> cellular telephone <> hard disc
+ILSVRC2012_val_00010737.JPEG <> cellular telephone <> hard disc
+ILSVRC2012_val_00000755.JPEG <> earthstar <> hen-of-the-woods
+ILSVRC2012_val_00023433.JPEG <> gyromitra <> hen-of-the-woods
+ILSVRC2012_val_00040193.JPEG <> coral fungus <> hen-of-the-woods
+ILSVRC2012_val_00048207.JPEG <> bolete <> hen-of-the-woods
+ILSVRC2012_val_00048837.JPEG <> American lobster <> hermit crab
+ILSVRC2012_val_00039303.JPEG <> American lobster <> hermit crab
+ILSVRC2012_val_00013932.JPEG <> crayfish <> hermit crab
+ILSVRC2012_val_00012713.JPEG <> king crab <> hermit crab
+ILSVRC2012_val_00021215.JPEG <> Indian cobra <> horned viper
+ILSVRC2012_val_00028503.JPEG <> king snake <> horned viper
+ILSVRC2012_val_00022901.JPEG <> thunder snake <> horned viper
+ILSVRC2012_val_00030719.JPEG <> green snake <> horned viper
+ILSVRC2012_val_00038898.JPEG <> cheeseburger <> hotdog
+ILSVRC2012_val_00016999.JPEG <> cheeseburger <> hotdog
+ILSVRC2012_val_00018040.JPEG <> cheeseburger <> hotdog
+ILSVRC2012_val_00027479.JPEG <> cheeseburger <> hotdog
+ILSVRC2012_val_00029999.JPEG <> junco <> house finch
+ILSVRC2012_val_00017970.JPEG <> junco <> house finch
+ILSVRC2012_val_00019236.JPEG <> goldfinch <> house finch
+ILSVRC2012_val_00014108.JPEG <> junco <> house finch
+ILSVRC2012_val_00033911.JPEG <> red wolf <> hyena
+ILSVRC2012_val_00014133.JPEG <> red fox <> hyena
+ILSVRC2012_val_00034084.JPEG <> red fox <> hyena
+ILSVRC2012_val_00017288.JPEG <> red wolf <> hyena
+ILSVRC2012_val_00042686.JPEG <> computer keyboard <> iPod
+ILSVRC2012_val_00010204.JPEG <> hard disc <> iPod
+ILSVRC2012_val_00006167.JPEG <> hard disc <> iPod
+ILSVRC2012_val_00045473.JPEG <> computer keyboard <> iPod
+ILSVRC2012_val_00044567.JPEG <> gazelle <> ibex
+ILSVRC2012_val_00004751.JPEG <> ox <> ibex
+ILSVRC2012_val_00043684.JPEG <> bison <> ibex
+ILSVRC2012_val_00044556.JPEG <> bison <> ibex
+ILSVRC2012_val_00015955.JPEG <> brown bear <> ice bear
+ILSVRC2012_val_00018469.JPEG <> brown bear <> ice bear
+ILSVRC2012_val_00042882.JPEG <> American black bear <> ice bear
+ILSVRC2012_val_00012542.JPEG <> giant panda <> ice bear
+ILSVRC2012_val_00044074.JPEG <> ibex <> impala
+ILSVRC2012_val_00021563.JPEG <> ibex <> impala
+ILSVRC2012_val_00013417.JPEG <> gazelle <> impala
+ILSVRC2012_val_00046413.JPEG <> gazelle <> impala
+ILSVRC2012_val_00029740.JPEG <> goldfinch <> indigo bunting
+ILSVRC2012_val_00004243.JPEG <> goldfinch <> indigo bunting
+ILSVRC2012_val_00017712.JPEG <> junco <> indigo bunting
+ILSVRC2012_val_00004577.JPEG <> junco <> indigo bunting
+ILSVRC2012_val_00046611.JPEG <> king crab <> isopod
+ILSVRC2012_val_00046344.JPEG <> hermit crab <> isopod
+ILSVRC2012_val_00041366.JPEG <> hermit crab <> isopod
+ILSVRC2012_val_00009251.JPEG <> American lobster <> isopod
+ILSVRC2012_val_00006239.JPEG <> cheetah <> jaguar
+ILSVRC2012_val_00022327.JPEG <> cheetah <> jaguar
+ILSVRC2012_val_00034256.JPEG <> tiger <> jaguar
+ILSVRC2012_val_00029635.JPEG <> tiger <> jaguar
+ILSVRC2012_val_00046793.JPEG <> minivan <> jeep
+ILSVRC2012_val_00010637.JPEG <> cab <> jeep
+ILSVRC2012_val_00018768.JPEG <> minivan <> jeep
+ILSVRC2012_val_00037492.JPEG <> minivan <> jeep
+ILSVRC2012_val_00025428.JPEG <> indigo bunting <> junco
+ILSVRC2012_val_00045623.JPEG <> house finch <> junco
+ILSVRC2012_val_00035254.JPEG <> goldfinch <> junco
+ILSVRC2012_val_00028791.JPEG <> house finch <> junco
+ILSVRC2012_val_00027457.JPEG <> sea lion <> killer whale
+ILSVRC2012_val_00022105.JPEG <> grey whale <> killer whale
+ILSVRC2012_val_00015203.JPEG <> grey whale <> killer whale
+ILSVRC2012_val_00011012.JPEG <> dugong <> killer whale
+ILSVRC2012_val_00022720.JPEG <> crayfish <> king crab
+ILSVRC2012_val_00031943.JPEG <> hermit crab <> king crab
+ILSVRC2012_val_00027920.JPEG <> crayfish <> king crab
+ILSVRC2012_val_00004444.JPEG <> hermit crab <> king crab
+ILSVRC2012_val_00044422.JPEG <> black swan <> king penguin
+ILSVRC2012_val_00032780.JPEG <> pelican <> king penguin
+ILSVRC2012_val_00048039.JPEG <> black swan <> king penguin
+ILSVRC2012_val_00007343.JPEG <> black swan <> king penguin
+ILSVRC2012_val_00041616.JPEG <> horned viper <> king snake
+ILSVRC2012_val_00016095.JPEG <> thunder snake <> king snake
+ILSVRC2012_val_00001578.JPEG <> green mamba <> king snake
+ILSVRC2012_val_00015622.JPEG <> diamondback <> king snake
+ILSVRC2012_val_00027627.JPEG <> great grey owl <> kite
+ILSVRC2012_val_00031144.JPEG <> great grey owl <> kite
+ILSVRC2012_val_00017994.JPEG <> bald eagle <> kite
+ILSVRC2012_val_00026614.JPEG <> bald eagle <> kite
+ILSVRC2012_val_00017727.JPEG <> long-horned beetle <> ladybug
+ILSVRC2012_val_00045910.JPEG <> long-horned beetle <> ladybug
+ILSVRC2012_val_00006121.JPEG <> weevil <> ladybug
+ILSVRC2012_val_00015056.JPEG <> long-horned beetle <> ladybug
+ILSVRC2012_val_00044784.JPEG <> iPod <> laptop
+ILSVRC2012_val_00037190.JPEG <> iPod <> laptop
+ILSVRC2012_val_00039592.JPEG <> cellular telephone <> laptop
+ILSVRC2012_val_00026428.JPEG <> computer keyboard <> laptop
+ILSVRC2012_val_00036251.JPEG <> ladybug <> leaf beetle
+ILSVRC2012_val_00036486.JPEG <> ladybug <> leaf beetle
+ILSVRC2012_val_00031903.JPEG <> ladybug <> leaf beetle
+ILSVRC2012_val_00035694.JPEG <> ladybug <> leaf beetle
+ILSVRC2012_val_00046718.JPEG <> Granny Smith <> lemon
+ILSVRC2012_val_00024711.JPEG <> custard apple <> lemon
+ILSVRC2012_val_00036580.JPEG <> banana <> lemon
+ILSVRC2012_val_00034820.JPEG <> Granny Smith <> lemon
+ILSVRC2012_val_00014216.JPEG <> Persian cat <> leopard
+ILSVRC2012_val_00034321.JPEG <> tiger <> leopard
+ILSVRC2012_val_00049018.JPEG <> lion <> leopard
+ILSVRC2012_val_00024234.JPEG <> lion <> leopard
+ILSVRC2012_val_00045098.JPEG <> sloth bear <> lesser panda
+ILSVRC2012_val_00007093.JPEG <> American black bear <> lesser panda
+ILSVRC2012_val_00034060.JPEG <> giant panda <> lesser panda
+ILSVRC2012_val_00023812.JPEG <> sloth bear <> lesser panda
+ILSVRC2012_val_00042282.JPEG <> gondola <> lifeboat
+ILSVRC2012_val_00046561.JPEG <> fireboat <> lifeboat
+ILSVRC2012_val_00027865.JPEG <> gondola <> lifeboat
+ILSVRC2012_val_00016468.JPEG <> gondola <> lifeboat
+ILSVRC2012_val_00018335.JPEG <> beach wagon <> limousine
+ILSVRC2012_val_00006084.JPEG <> beach wagon <> limousine
+ILSVRC2012_val_00037112.JPEG <> beach wagon <> limousine
+ILSVRC2012_val_00023507.JPEG <> cab <> limousine
+ILSVRC2012_val_00045488.JPEG <> jaguar <> lion
+ILSVRC2012_val_00035494.JPEG <> tiger <> lion
+ILSVRC2012_val_00040630.JPEG <> tiger <> lion
+ILSVRC2012_val_00045239.JPEG <> tabby <> lion
+ILSVRC2012_val_00017700.JPEG <> tench <> lionfish
+ILSVRC2012_val_00009191.JPEG <> tench <> lionfish
+ILSVRC2012_val_00000262.JPEG <> goldfish <> lionfish
+ILSVRC2012_val_00031305.JPEG <> anemone fish <> lionfish
+ILSVRC2012_val_00041535.JPEG <> oystercatcher <> little blue heron
+ILSVRC2012_val_00002953.JPEG <> spoonbill <> little blue heron
+ILSVRC2012_val_00026476.JPEG <> oystercatcher <> little blue heron
+ILSVRC2012_val_00008737.JPEG <> oystercatcher <> little blue heron
+ILSVRC2012_val_00049845.JPEG <> leaf beetle <> long-horned beetle
+ILSVRC2012_val_00036417.JPEG <> tiger beetle <> long-horned beetle
+ILSVRC2012_val_00047901.JPEG <> leaf beetle <> long-horned beetle
+ILSVRC2012_val_00031945.JPEG <> tiger beetle <> long-horned beetle
+ILSVRC2012_val_00047683.JPEG <> sulphur butterfly <> lycaenid
+ILSVRC2012_val_00014310.JPEG <> monarch <> lycaenid
+ILSVRC2012_val_00023523.JPEG <> admiral <> lycaenid
+ILSVRC2012_val_00007368.JPEG <> cabbage butterfly <> lycaenid
+ILSVRC2012_val_00037084.JPEG <> capuchin <> macaque
+ILSVRC2012_val_00043576.JPEG <> squirrel monkey <> macaque
+ILSVRC2012_val_00042708.JPEG <> squirrel monkey <> macaque
+ILSVRC2012_val_00002334.JPEG <> guenon <> macaque
+ILSVRC2012_val_00035792.JPEG <> gong <> maraca
+ILSVRC2012_val_00019940.JPEG <> steel drum <> maraca
+ILSVRC2012_val_00016503.JPEG <> gong <> maraca
+ILSVRC2012_val_00002842.JPEG <> gong <> maraca
+ILSVRC2012_val_00026592.JPEG <> chime <> marimba
+ILSVRC2012_val_00005668.JPEG <> steel drum <> marimba
+ILSVRC2012_val_00043454.JPEG <> chime <> marimba
+ILSVRC2012_val_00033204.JPEG <> steel drum <> marimba
+ILSVRC2012_val_00040545.JPEG <> beer bottle <> measuring cup
+ILSVRC2012_val_00000464.JPEG <> teapot <> measuring cup
+ILSVRC2012_val_00038312.JPEG <> water bottle <> measuring cup
+ILSVRC2012_val_00020977.JPEG <> water bottle <> measuring cup
+ILSVRC2012_val_00005662.JPEG <> German shepherd <> miniature pinscher
+ILSVRC2012_val_00033334.JPEG <> Rottweiler <> miniature pinscher
+ILSVRC2012_val_00014315.JPEG <> Rottweiler <> miniature pinscher
+ILSVRC2012_val_00012085.JPEG <> Rottweiler <> miniature pinscher
+ILSVRC2012_val_00046706.JPEG <> ambulance <> minivan
+ILSVRC2012_val_00041920.JPEG <> cab <> minivan
+ILSVRC2012_val_00030748.JPEG <> trailer truck <> minivan
+ILSVRC2012_val_00031870.JPEG <> school bus <> minivan
+ILSVRC2012_val_00043381.JPEG <> lycaenid <> monarch
+ILSVRC2012_val_00014909.JPEG <> cabbage butterfly <> monarch
+ILSVRC2012_val_00038721.JPEG <> sulphur butterfly <> monarch
+ILSVRC2012_val_00035399.JPEG <> ringlet <> monarch
+ILSVRC2012_val_00042393.JPEG <> mountain bike <> moped
+ILSVRC2012_val_00023808.JPEG <> tricycle <> moped
+ILSVRC2012_val_00011330.JPEG <> mountain bike <> moped
+ILSVRC2012_val_00030174.JPEG <> motor scooter <> moped
+ILSVRC2012_val_00030892.JPEG <> mountain bike <> motor scooter
+ILSVRC2012_val_00041965.JPEG <> tricycle <> motor scooter
+ILSVRC2012_val_00048569.JPEG <> moped <> motor scooter
+ILSVRC2012_val_00004104.JPEG <> moped <> motor scooter
+ILSVRC2012_val_00038319.JPEG <> unicycle <> mountain bike
+ILSVRC2012_val_00014286.JPEG <> motor scooter <> mountain bike
+ILSVRC2012_val_00041594.JPEG <> tricycle <> mountain bike
+ILSVRC2012_val_00003853.JPEG <> moped <> mountain bike
+ILSVRC2012_val_00040287.JPEG <> box turtle <> mud turtle
+ILSVRC2012_val_00017222.JPEG <> box turtle <> mud turtle
+ILSVRC2012_val_00040787.JPEG <> terrapin <> mud turtle
+ILSVRC2012_val_00030343.JPEG <> box turtle <> mud turtle
+ILSVRC2012_val_00017407.JPEG <> French horn <> oboe
+ILSVRC2012_val_00037364.JPEG <> cornet <> oboe
+ILSVRC2012_val_00018346.JPEG <> trombone <> oboe
+ILSVRC2012_val_00020715.JPEG <> sax <> oboe
+ILSVRC2012_val_00041547.JPEG <> wall clock <> odometer
+ILSVRC2012_val_00036318.JPEG <> wall clock <> odometer
+ILSVRC2012_val_00017597.JPEG <> digital watch <> odometer
+ILSVRC2012_val_00013767.JPEG <> digital clock <> odometer
+ILSVRC2012_val_00011441.JPEG <> custard apple <> orange
+ILSVRC2012_val_00036732.JPEG <> pomegranate <> orange
+ILSVRC2012_val_00035445.JPEG <> strawberry <> orange
+ILSVRC2012_val_00017842.JPEG <> lemon <> orange
+ILSVRC2012_val_00033537.JPEG <> chimpanzee <> orangutan
+ILSVRC2012_val_00032684.JPEG <> chimpanzee <> orangutan
+ILSVRC2012_val_00037790.JPEG <> chimpanzee <> orangutan
+ILSVRC2012_val_00030426.JPEG <> chimpanzee <> orangutan
+ILSVRC2012_val_00042097.JPEG <> Afghan hound <> otterhound
+ILSVRC2012_val_00027989.JPEG <> beagle <> otterhound
+ILSVRC2012_val_00007850.JPEG <> English foxhound <> otterhound
+ILSVRC2012_val_00029932.JPEG <> beagle <> otterhound
+ILSVRC2012_val_00035331.JPEG <> ibex <> ox
+ILSVRC2012_val_00028130.JPEG <> gazelle <> ox
+ILSVRC2012_val_00018198.JPEG <> water buffalo <> ox
+ILSVRC2012_val_00028482.JPEG <> impala <> ox
+ILSVRC2012_val_00028438.JPEG <> goose <> oystercatcher
+ILSVRC2012_val_00018511.JPEG <> flamingo <> oystercatcher
+ILSVRC2012_val_00036969.JPEG <> goose <> oystercatcher
+ILSVRC2012_val_00001230.JPEG <> black stork <> oystercatcher
+ILSVRC2012_val_00033200.JPEG <> Japanese spaniel <> papillon
+ILSVRC2012_val_00039439.JPEG <> Chihuahua <> papillon
+ILSVRC2012_val_00007958.JPEG <> Shih-Tzu <> papillon
+ILSVRC2012_val_00031965.JPEG <> Japanese spaniel <> papillon
+ILSVRC2012_val_00029710.JPEG <> king penguin <> pelican
+ILSVRC2012_val_00023617.JPEG <> king penguin <> pelican
+ILSVRC2012_val_00015899.JPEG <> black swan <> pelican
+ILSVRC2012_val_00026733.JPEG <> albatross <> pelican
+ILSVRC2012_val_00042802.JPEG <> garbage truck <> pickup
+ILSVRC2012_val_00047189.JPEG <> garbage truck <> pickup
+ILSVRC2012_val_00045030.JPEG <> school bus <> pickup
+ILSVRC2012_val_00046181.JPEG <> fire engine <> pickup
+ILSVRC2012_val_00032327.JPEG <> banana <> pineapple
+ILSVRC2012_val_00032411.JPEG <> strawberry <> pineapple
+ILSVRC2012_val_00007820.JPEG <> pomegranate <> pineapple
+ILSVRC2012_val_00032960.JPEG <> orange <> pineapple
+ILSVRC2012_val_00023845.JPEG <> golf ball <> ping-pong ball
+ILSVRC2012_val_00044936.JPEG <> golf ball <> ping-pong ball
+ILSVRC2012_val_00036050.JPEG <> soccer ball <> ping-pong ball
+ILSVRC2012_val_00028138.JPEG <> soccer ball <> ping-pong ball
+ILSVRC2012_val_00031958.JPEG <> plunger <> plane
+ILSVRC2012_val_00022380.JPEG <> plunger <> plane
+ILSVRC2012_val_00002065.JPEG <> shovel <> plane
+ILSVRC2012_val_00025749.JPEG <> shovel <> plane
+ILSVRC2012_val_00048124.JPEG <> purse <> plastic bag
+ILSVRC2012_val_00030487.JPEG <> purse <> plastic bag
+ILSVRC2012_val_00018021.JPEG <> backpack <> plastic bag
+ILSVRC2012_val_00007012.JPEG <> backpack <> plastic bag
+ILSVRC2012_val_00032928.JPEG <> shovel <> plunger
+ILSVRC2012_val_00009914.JPEG <> hammer <> plunger
+ILSVRC2012_val_00041876.JPEG <> hammer <> plunger
+ILSVRC2012_val_00006877.JPEG <> plane <> plunger
+ILSVRC2012_val_00006234.JPEG <> garbage truck <> police van
+ILSVRC2012_val_00010117.JPEG <> school bus <> police van
+ILSVRC2012_val_00017360.JPEG <> pickup <> police van
+ILSVRC2012_val_00026743.JPEG <> pickup <> police van
+ILSVRC2012_val_00045149.JPEG <> lemon <> pomegranate
+ILSVRC2012_val_00009015.JPEG <> pineapple <> pomegranate
+ILSVRC2012_val_00016984.JPEG <> pineapple <> pomegranate
+ILSVRC2012_val_00002412.JPEG <> strawberry <> pomegranate
+ILSVRC2012_val_00022992.JPEG <> ruffed grouse <> prairie chicken
+ILSVRC2012_val_00027946.JPEG <> ptarmigan <> prairie chicken
+ILSVRC2012_val_00028600.JPEG <> black grouse <> prairie chicken
+ILSVRC2012_val_00035916.JPEG <> ptarmigan <> prairie chicken
+ILSVRC2012_val_00030713.JPEG <> black grouse <> ptarmigan
+ILSVRC2012_val_00041375.JPEG <> ruffed grouse <> ptarmigan
+ILSVRC2012_val_00028119.JPEG <> ruffed grouse <> ptarmigan
+ILSVRC2012_val_00021954.JPEG <> ruffed grouse <> ptarmigan
+ILSVRC2012_val_00020845.JPEG <> plastic bag <> purse
+ILSVRC2012_val_00000459.JPEG <> backpack <> purse
+ILSVRC2012_val_00002183.JPEG <> backpack <> purse
+ILSVRC2012_val_00042645.JPEG <> plastic bag <> purse
+ILSVRC2012_val_00036577.JPEG <> gazelle <> ram
+ILSVRC2012_val_00020346.JPEG <> bison <> ram
+ILSVRC2012_val_00021149.JPEG <> bighorn <> ram
+ILSVRC2012_val_00039117.JPEG <> bison <> ram
+ILSVRC2012_val_00029855.JPEG <> grey fox <> red fox
+ILSVRC2012_val_00044765.JPEG <> timber wolf <> red fox
+ILSVRC2012_val_00023411.JPEG <> coyote <> red fox
+ILSVRC2012_val_00042098.JPEG <> white wolf <> red fox
+ILSVRC2012_val_00004282.JPEG <> African hunting dog <> red wolf
+ILSVRC2012_val_00002063.JPEG <> white wolf <> red wolf
+ILSVRC2012_val_00020325.JPEG <> hyena <> red wolf
+ILSVRC2012_val_00018188.JPEG <> white wolf <> red wolf
+ILSVRC2012_val_00025122.JPEG <> admiral <> ringlet
+ILSVRC2012_val_00041173.JPEG <> sulphur butterfly <> ringlet
+ILSVRC2012_val_00011772.JPEG <> admiral <> ringlet
+ILSVRC2012_val_00011589.JPEG <> cabbage butterfly <> ringlet
+ILSVRC2012_val_00018750.JPEG <> king crab <> rock crab
+ILSVRC2012_val_00021094.JPEG <> crayfish <> rock crab
+ILSVRC2012_val_00006179.JPEG <> American lobster <> rock crab
+ILSVRC2012_val_00026843.JPEG <> king crab <> rock crab
+ILSVRC2012_val_00022408.JPEG <> Indian cobra <> rock python
+ILSVRC2012_val_00008849.JPEG <> boa constrictor <> rock python
+ILSVRC2012_val_00025467.JPEG <> diamondback <> rock python
+ILSVRC2012_val_00043850.JPEG <> green mamba <> rock python
+ILSVRC2012_val_00001136.JPEG <> black grouse <> ruffed grouse
+ILSVRC2012_val_00003122.JPEG <> black grouse <> ruffed grouse
+ILSVRC2012_val_00000860.JPEG <> ptarmigan <> ruffed grouse
+ILSVRC2012_val_00040261.JPEG <> prairie chicken <> ruffed grouse
+ILSVRC2012_val_00030118.JPEG <> soccer ball <> rugby ball
+ILSVRC2012_val_00033315.JPEG <> soccer ball <> rugby ball
+ILSVRC2012_val_00011431.JPEG <> golf ball <> rugby ball
+ILSVRC2012_val_00035706.JPEG <> ping-pong ball <> rugby ball
+ILSVRC2012_val_00028005.JPEG <> flute <> sax
+ILSVRC2012_val_00025175.JPEG <> trombone <> sax
+ILSVRC2012_val_00013113.JPEG <> French horn <> sax
+ILSVRC2012_val_00048210.JPEG <> bassoon <> sax
+ILSVRC2012_val_00034167.JPEG <> trailer truck <> school bus
+ILSVRC2012_val_00027383.JPEG <> police van <> school bus
+ILSVRC2012_val_00034001.JPEG <> garbage truck <> school bus
+ILSVRC2012_val_00031405.JPEG <> fire engine <> school bus
+ILSVRC2012_val_00005196.JPEG <> trimaran <> schooner
+ILSVRC2012_val_00002094.JPEG <> trimaran <> schooner
+ILSVRC2012_val_00028215.JPEG <> catamaran <> schooner
+ILSVRC2012_val_00013181.JPEG <> catamaran <> schooner
+ILSVRC2012_val_00041311.JPEG <> tarantula <> scorpion
+ILSVRC2012_val_00040995.JPEG <> black widow <> scorpion
+ILSVRC2012_val_00048649.JPEG <> wolf spider <> scorpion
+ILSVRC2012_val_00046017.JPEG <> wolf spider <> scorpion
+ILSVRC2012_val_00025789.JPEG <> hammer <> screwdriver
+ILSVRC2012_val_00035780.JPEG <> plunger <> screwdriver
+ILSVRC2012_val_00000645.JPEG <> plane <> screwdriver
+ILSVRC2012_val_00035208.JPEG <> shovel <> screwdriver
+ILSVRC2012_val_00017716.JPEG <> grey whale <> sea lion
+ILSVRC2012_val_00042590.JPEG <> killer whale <> sea lion
+ILSVRC2012_val_00002166.JPEG <> killer whale <> sea lion
+ILSVRC2012_val_00039158.JPEG <> dugong <> sea lion
+ILSVRC2012_val_00015962.JPEG <> hammer <> shovel
+ILSVRC2012_val_00006905.JPEG <> plunger <> shovel
+ILSVRC2012_val_00015583.JPEG <> hammer <> shovel
+ILSVRC2012_val_00044017.JPEG <> plane <> shovel
+ILSVRC2012_val_00011741.JPEG <> bathing cap <> shower cap
+ILSVRC2012_val_00009041.JPEG <> bonnet <> shower cap
+ILSVRC2012_val_00018053.JPEG <> sombrero <> shower cap
+ILSVRC2012_val_00043987.JPEG <> bathing cap <> shower cap
+ILSVRC2012_val_00002899.JPEG <> rock python <> sidewinder
+ILSVRC2012_val_00015643.JPEG <> boa constrictor <> sidewinder
+ILSVRC2012_val_00017753.JPEG <> Indian cobra <> sidewinder
+ILSVRC2012_val_00029827.JPEG <> green snake <> sidewinder
+ILSVRC2012_val_00016512.JPEG <> brown bear <> sloth bear
+ILSVRC2012_val_00014029.JPEG <> American black bear <> sloth bear
+ILSVRC2012_val_00048883.JPEG <> brown bear <> sloth bear
+ILSVRC2012_val_00000592.JPEG <> American black bear <> sloth bear
+ILSVRC2012_val_00018437.JPEG <> tiger <> snow leopard
+ILSVRC2012_val_00016194.JPEG <> Persian cat <> snow leopard
+ILSVRC2012_val_00040607.JPEG <> lion <> snow leopard
+ILSVRC2012_val_00002967.JPEG <> Persian cat <> snow leopard
+ILSVRC2012_val_00034028.JPEG <> tennis ball <> soccer ball
+ILSVRC2012_val_00046563.JPEG <> ping-pong ball <> soccer ball
+ILSVRC2012_val_00041504.JPEG <> ping-pong ball <> soccer ball
+ILSVRC2012_val_00033602.JPEG <> tennis ball <> soccer ball
+ILSVRC2012_val_00006090.JPEG <> shower cap <> sombrero
+ILSVRC2012_val_00020866.JPEG <> football helmet <> sombrero
+ILSVRC2012_val_00024382.JPEG <> cowboy hat <> sombrero
+ILSVRC2012_val_00010957.JPEG <> cowboy hat <> sombrero
+ILSVRC2012_val_00012498.JPEG <> zebra <> sorrel
+ILSVRC2012_val_00033660.JPEG <> zebra <> sorrel
+ILSVRC2012_val_00026458.JPEG <> zebra <> sorrel
+ILSVRC2012_val_00043935.JPEG <> zebra <> sorrel
+ILSVRC2012_val_00038343.JPEG <> cauliflower <> spaghetti squash
+ILSVRC2012_val_00005593.JPEG <> cucumber <> spaghetti squash
+ILSVRC2012_val_00032107.JPEG <> cauliflower <> spaghetti squash
+ILSVRC2012_val_00003961.JPEG <> cardoon <> spaghetti squash
+ILSVRC2012_val_00048806.JPEG <> gondola <> speedboat
+ILSVRC2012_val_00047650.JPEG <> lifeboat <> speedboat
+ILSVRC2012_val_00004483.JPEG <> lifeboat <> speedboat
+ILSVRC2012_val_00023574.JPEG <> canoe <> speedboat
+ILSVRC2012_val_00046645.JPEG <> guenon <> spider monkey
+ILSVRC2012_val_00029789.JPEG <> macaque <> spider monkey
+ILSVRC2012_val_00034293.JPEG <> squirrel monkey <> spider monkey
+ILSVRC2012_val_00021331.JPEG <> baboon <> spider monkey
+ILSVRC2012_val_00025410.JPEG <> oystercatcher <> spoonbill
+ILSVRC2012_val_00031760.JPEG <> oystercatcher <> spoonbill
+ILSVRC2012_val_00018159.JPEG <> black stork <> spoonbill
+ILSVRC2012_val_00010673.JPEG <> little blue heron <> spoonbill
+ILSVRC2012_val_00025469.JPEG <> ambulance <> sports car
+ILSVRC2012_val_00016945.JPEG <> limousine <> sports car
+ILSVRC2012_val_00004439.JPEG <> jeep <> sports car
+ILSVRC2012_val_00029244.JPEG <> jeep <> sports car
+ILSVRC2012_val_00016422.JPEG <> common newt <> spotted salamander
+ILSVRC2012_val_00018512.JPEG <> bullfrog <> spotted salamander
+ILSVRC2012_val_00007288.JPEG <> common newt <> spotted salamander
+ILSVRC2012_val_00004613.JPEG <> bullfrog <> spotted salamander
+ILSVRC2012_val_00002543.JPEG <> guenon <> squirrel monkey
+ILSVRC2012_val_00046117.JPEG <> spider monkey <> squirrel monkey
+ILSVRC2012_val_00003000.JPEG <> macaque <> squirrel monkey
+ILSVRC2012_val_00000486.JPEG <> baboon <> squirrel monkey
+ILSVRC2012_val_00001597.JPEG <> Yorkshire terrier <> standard schnauzer
+ILSVRC2012_val_00038167.JPEG <> Border terrier <> standard schnauzer
+ILSVRC2012_val_00019276.JPEG <> American Staffordshire terrier <> standard schnauzer
+ILSVRC2012_val_00043199.JPEG <> Border terrier <> standard schnauzer
+ILSVRC2012_val_00023716.JPEG <> electric locomotive <> steam locomotive
+ILSVRC2012_val_00039148.JPEG <> electric locomotive <> steam locomotive
+ILSVRC2012_val_00046707.JPEG <> electric locomotive <> steam locomotive
+ILSVRC2012_val_00043187.JPEG <> electric locomotive <> steam locomotive
+ILSVRC2012_val_00025932.JPEG <> maraca <> steel drum
+ILSVRC2012_val_00016663.JPEG <> drum <> steel drum
+ILSVRC2012_val_00019690.JPEG <> marimba <> steel drum
+ILSVRC2012_val_00026289.JPEG <> chime <> steel drum
+ILSVRC2012_val_00011333.JPEG <> bolete <> stinkhorn
+ILSVRC2012_val_00042738.JPEG <> gyromitra <> stinkhorn
+ILSVRC2012_val_00012826.JPEG <> earthstar <> stinkhorn
+ILSVRC2012_val_00006796.JPEG <> coral fungus <> stinkhorn
+ILSVRC2012_val_00045889.JPEG <> barometer <> stopwatch
+ILSVRC2012_val_00039361.JPEG <> digital watch <> stopwatch
+ILSVRC2012_val_00015108.JPEG <> analog clock <> stopwatch
+ILSVRC2012_val_00003637.JPEG <> odometer <> stopwatch
+ILSVRC2012_val_00042141.JPEG <> fig <> strawberry
+ILSVRC2012_val_00046347.JPEG <> orange <> strawberry
+ILSVRC2012_val_00031912.JPEG <> pomegranate <> strawberry
+ILSVRC2012_val_00032536.JPEG <> fig <> strawberry
+ILSVRC2012_val_00032375.JPEG <> lionfish <> sturgeon
+ILSVRC2012_val_00030309.JPEG <> lionfish <> sturgeon
+ILSVRC2012_val_00045866.JPEG <> tench <> sturgeon
+ILSVRC2012_val_00048204.JPEG <> tench <> sturgeon
+ILSVRC2012_val_00023084.JPEG <> monarch <> sulphur butterfly
+ILSVRC2012_val_00029047.JPEG <> ringlet <> sulphur butterfly
+ILSVRC2012_val_00002787.JPEG <> lycaenid <> sulphur butterfly
+ILSVRC2012_val_00010777.JPEG <> admiral <> sulphur butterfly
+ILSVRC2012_val_00029267.JPEG <> tiger <> tabby
+ILSVRC2012_val_00049347.JPEG <> jaguar <> tabby
+ILSVRC2012_val_00047193.JPEG <> lion <> tabby
+ILSVRC2012_val_00049996.JPEG <> Persian cat <> tabby
+ILSVRC2012_val_00029177.JPEG <> scorpion <> tarantula
+ILSVRC2012_val_00012429.JPEG <> scorpion <> tarantula
+ILSVRC2012_val_00017294.JPEG <> black widow <> tarantula
+ILSVRC2012_val_00022205.JPEG <> black widow <> tarantula
+ILSVRC2012_val_00049929.JPEG <> water bottle <> teapot
+ILSVRC2012_val_00035758.JPEG <> coffee mug <> teapot
+ILSVRC2012_val_00027424.JPEG <> water bottle <> teapot
+ILSVRC2012_val_00020948.JPEG <> water bottle <> teapot
+ILSVRC2012_val_00011576.JPEG <> lionfish <> tench
+ILSVRC2012_val_00017924.JPEG <> eel <> tench
+ILSVRC2012_val_00018075.JPEG <> goldfish <> tench
+ILSVRC2012_val_00032979.JPEG <> sturgeon <> tench
+ILSVRC2012_val_00032634.JPEG <> soccer ball <> tennis ball
+ILSVRC2012_val_00016861.JPEG <> ping-pong ball <> tennis ball
+ILSVRC2012_val_00036171.JPEG <> golf ball <> tennis ball
+ILSVRC2012_val_00033381.JPEG <> ping-pong ball <> tennis ball
+ILSVRC2012_val_00010386.JPEG <> box turtle <> terrapin
+ILSVRC2012_val_00004834.JPEG <> box turtle <> terrapin
+ILSVRC2012_val_00043444.JPEG <> box turtle <> terrapin
+ILSVRC2012_val_00049782.JPEG <> box turtle <> terrapin
+ILSVRC2012_val_00021680.JPEG <> Indian cobra <> thunder snake
+ILSVRC2012_val_00045212.JPEG <> horned viper <> thunder snake
+ILSVRC2012_val_00027790.JPEG <> horned viper <> thunder snake
+ILSVRC2012_val_00049182.JPEG <> green mamba <> thunder snake
+ILSVRC2012_val_00032910.JPEG <> Persian cat <> tiger
+ILSVRC2012_val_00010472.JPEG <> snow leopard <> tiger
+ILSVRC2012_val_00036533.JPEG <> leopard <> tiger
+ILSVRC2012_val_00040788.JPEG <> jaguar <> tiger
+ILSVRC2012_val_00018022.JPEG <> long-horned beetle <> tiger beetle
+ILSVRC2012_val_00044574.JPEG <> weevil <> tiger beetle
+ILSVRC2012_val_00035497.JPEG <> ladybug <> tiger beetle
+ILSVRC2012_val_00047115.JPEG <> leaf beetle <> tiger beetle
+ILSVRC2012_val_00045133.JPEG <> hammerhead <> tiger shark
+ILSVRC2012_val_00031808.JPEG <> great white shark <> tiger shark
+ILSVRC2012_val_00016259.JPEG <> hammerhead <> tiger shark
+ILSVRC2012_val_00004311.JPEG <> great white shark <> tiger shark
+ILSVRC2012_val_00010040.JPEG <> dingo <> timber wolf
+ILSVRC2012_val_00043662.JPEG <> grey fox <> timber wolf
+ILSVRC2012_val_00019222.JPEG <> Arctic fox <> timber wolf
+ILSVRC2012_val_00048385.JPEG <> African hunting dog <> timber wolf
+ILSVRC2012_val_00043256.JPEG <> fire engine <> tow truck
+ILSVRC2012_val_00010401.JPEG <> school bus <> tow truck
+ILSVRC2012_val_00033923.JPEG <> police van <> tow truck
+ILSVRC2012_val_00038360.JPEG <> trailer truck <> tow truck
+ILSVRC2012_val_00025098.JPEG <> Japanese spaniel <> toy terrier
+ILSVRC2012_val_00011754.JPEG <> Shih-Tzu <> toy terrier
+ILSVRC2012_val_00029289.JPEG <> Chihuahua <> toy terrier
+ILSVRC2012_val_00037960.JPEG <> Japanese spaniel <> toy terrier
+ILSVRC2012_val_00036504.JPEG <> pickup <> trailer truck
+ILSVRC2012_val_00039069.JPEG <> garbage truck <> trailer truck
+ILSVRC2012_val_00016332.JPEG <> tow truck <> trailer truck
+ILSVRC2012_val_00028462.JPEG <> tow truck <> trailer truck
+ILSVRC2012_val_00012441.JPEG <> eft <> tree frog
+ILSVRC2012_val_00009938.JPEG <> European fire salamander <> tree frog
+ILSVRC2012_val_00023080.JPEG <> spotted salamander <> tree frog
+ILSVRC2012_val_00015091.JPEG <> spotted salamander <> tree frog
+ILSVRC2012_val_00044139.JPEG <> moped <> tricycle
+ILSVRC2012_val_00022401.JPEG <> motor scooter <> tricycle
+ILSVRC2012_val_00015839.JPEG <> moped <> tricycle
+ILSVRC2012_val_00019513.JPEG <> mountain bike <> tricycle
+ILSVRC2012_val_00049923.JPEG <> schooner <> trimaran
+ILSVRC2012_val_00010769.JPEG <> catamaran <> trimaran
+ILSVRC2012_val_00047791.JPEG <> schooner <> trimaran
+ILSVRC2012_val_00034585.JPEG <> catamaran <> trimaran
+ILSVRC2012_val_00011274.JPEG <> bassoon <> trombone
+ILSVRC2012_val_00018806.JPEG <> bassoon <> trombone
+ILSVRC2012_val_00033457.JPEG <> oboe <> trombone
+ILSVRC2012_val_00011804.JPEG <> sax <> trombone
+ILSVRC2012_val_00016915.JPEG <> tricycle <> unicycle
+ILSVRC2012_val_00031789.JPEG <> moped <> unicycle
+ILSVRC2012_val_00036678.JPEG <> mountain bike <> unicycle
+ILSVRC2012_val_00005330.JPEG <> mountain bike <> unicycle
+ILSVRC2012_val_00037105.JPEG <> teapot <> vase
+ILSVRC2012_val_00014757.JPEG <> teapot <> vase
+ILSVRC2012_val_00006085.JPEG <> teapot <> vase
+ILSVRC2012_val_00032981.JPEG <> water jug <> vase
+ILSVRC2012_val_00042863.JPEG <> cello <> violin
+ILSVRC2012_val_00045757.JPEG <> cello <> violin
+ILSVRC2012_val_00034445.JPEG <> cello <> violin
+ILSVRC2012_val_00014896.JPEG <> electric guitar <> violin
+ILSVRC2012_val_00048149.JPEG <> barometer <> wall clock
+ILSVRC2012_val_00043606.JPEG <> stopwatch <> wall clock
+ILSVRC2012_val_00012383.JPEG <> digital watch <> wall clock
+ILSVRC2012_val_00038367.JPEG <> odometer <> wall clock
+ILSVRC2012_val_00012391.JPEG <> coffeepot <> water bottle
+ILSVRC2012_val_00020857.JPEG <> water jug <> water bottle
+ILSVRC2012_val_00000344.JPEG <> cocktail shaker <> water bottle
+ILSVRC2012_val_00022585.JPEG <> coffeepot <> water bottle
+ILSVRC2012_val_00028496.JPEG <> bison <> water buffalo
+ILSVRC2012_val_00016192.JPEG <> ibex <> water buffalo
+ILSVRC2012_val_00011631.JPEG <> ibex <> water buffalo
+ILSVRC2012_val_00008629.JPEG <> bison <> water buffalo
+ILSVRC2012_val_00007887.JPEG <> measuring cup <> water jug
+ILSVRC2012_val_00042306.JPEG <> cocktail shaker <> water jug
+ILSVRC2012_val_00009225.JPEG <> beer bottle <> water jug
+ILSVRC2012_val_00027209.JPEG <> measuring cup <> water jug
+ILSVRC2012_val_00027954.JPEG <> ladybug <> weevil
+ILSVRC2012_val_00043134.JPEG <> leaf beetle <> weevil
+ILSVRC2012_val_00000361.JPEG <> tiger beetle <> weevil
+ILSVRC2012_val_00001776.JPEG <> leaf beetle <> weevil
+ILSVRC2012_val_00004178.JPEG <> coyote <> white wolf
+ILSVRC2012_val_00019728.JPEG <> dingo <> white wolf
+ILSVRC2012_val_00046470.JPEG <> African hunting dog <> white wolf
+ILSVRC2012_val_00020481.JPEG <> Arctic fox <> white wolf
+ILSVRC2012_val_00046719.JPEG <> teapot <> wine bottle
+ILSVRC2012_val_00031872.JPEG <> vase <> wine bottle
+ILSVRC2012_val_00048215.JPEG <> cocktail shaker <> wine bottle
+ILSVRC2012_val_00041455.JPEG <> cocktail shaker <> wine bottle
+ILSVRC2012_val_00017404.JPEG <> Border terrier <> wire-haired fox terrier
+ILSVRC2012_val_00044532.JPEG <> Irish terrier <> wire-haired fox terrier
+ILSVRC2012_val_00043556.JPEG <> American Staffordshire terrier <> wire-haired fox terrier
+ILSVRC2012_val_00004687.JPEG <> Irish terrier <> wire-haired fox terrier
+ILSVRC2012_val_00040775.JPEG <> tarantula <> wolf spider
+ILSVRC2012_val_00019030.JPEG <> garden spider <> wolf spider
+ILSVRC2012_val_00019765.JPEG <> black widow <> wolf spider
+ILSVRC2012_val_00031020.JPEG <> scorpion <> wolf spider
+ILSVRC2012_val_00049082.JPEG <> sorrel <> zebra
+ILSVRC2012_val_00007267.JPEG <> sorrel <> zebra
+ILSVRC2012_val_00047494.JPEG <> sorrel <> zebra
+ILSVRC2012_val_00029082.JPEG <> sorrel <> zebra
+ILSVRC2012_val_00028304.JPEG <> broccoli <> zucchini
+ILSVRC2012_val_00039289.JPEG <> artichoke <> zucchini
+ILSVRC2012_val_00025145.JPEG <> cucumber <> zucchini
+ILSVRC2012_val_00000332.JPEG <> cauliflower <> zucchini
