@@ -3,7 +3,8 @@
  - [*Towards Efficient Diffusion-based Image Editing with Instant Attention Mask Guidance*]
  
  ## Model Architecture
-![Model_architecture](https://github.com/xiaotianqing/InstDiffEdit/tree/master/figure/InstDiffEdit.png)
+![Model_architecture](https://github.com/xiaotianqing/InstDiffEdit/tree/main/figure/InstDiffEdit.png)
+
 
 ## Code Path
 
