@@ -2,7 +2,7 @@
 This repository contains the implementation of the AAAI 2024 paper:
 > **Towards Efficient Diffusion-Based Image Editing with Instant Attention Masks** 
 > [[Paper]](https://arxiv.org/abs/2401.07709) [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/28622)<br>
-> [Siyu Zou]<sup>1</sup>, Jiji Tang<sup>2</sup>, Yiyi Zhou<sup>1</sup>, Jing He<sup>1</sup>, Chaoyi Zhao<sup>2</sup>, Rongsheng Zhang<sup>2</sup>, Zhipeng Hu<sup>2</sup>, [Xiaoshuai Sun](https://sites.google.com/view/xssun)<sup>1</sup><br>
+> Siyu Zou<sup>1</sup>, Jiji Tang<sup>2</sup>, Yiyi Zhou<sup>1</sup>, Jing He<sup>1</sup>, Chaoyi Zhao<sup>2</sup>, Rongsheng Zhang<sup>2</sup>, Zhipeng Hu<sup>2</sup>, [Xiaoshuai Sun](https://sites.google.com/view/xssun)<sup>1</sup><br>
 ><sup>1</sup>Key Laboratory of Multimedia Trusted Perception and Efficient Computing, Ministry of Education of China, Xiamen University<br>
 > <sup>2</sup>Fuxi AI Lab, NetEase Inc., Hangzhou
  
